@@ -53,7 +53,7 @@ void programOverview ()
 char getScale ()
 {
   char scale;
-  cout << "Enter the letter of the temperature scale that will be used:" << endl;
+  cout << "Please Enter the letter of the temperature scale that will be used:" << endl;
   cout << "F = Fahrenheit; C = Celsius)" << endl;
   cin >> scale;
   return scale;
