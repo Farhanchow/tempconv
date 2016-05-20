@@ -31,7 +31,7 @@ int main ()
       Ctemp = degree; //store origonal into Ctemp (instead of Ftemp)
     }
   else
-    cout << "ERROR: Invalid temperature scale" << endl;
+    cout << "ERROR: Invalid temperature scale. Please try again!" << endl;
     exit (EXIT_FAILURE);
   }
   //now Ftemp and Ctemp have been assigned the proper values
