@@ -90,7 +90,7 @@ void getResults (float Ftemp, float Ctemp) //Ftemp and Ctemp should be parameter
   // Just remember to pass the temps to the function when you invoke it.
 {
   cout << "Your temperature reading converts as follows:" << endl;
-  cout << "Fahrenheit:" << Ftemp << endl;
+  cout << "To Fahrenheit:" << Ftemp << endl;
   cout << "Celsius:" << Ctemp << endl;
 }
 
