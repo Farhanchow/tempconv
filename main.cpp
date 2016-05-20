@@ -63,7 +63,7 @@ char getScale ()
 float getDegree ()
 {
   float degree;
-  cout << "Enter your temperature reading in degrees:" << endl;
+  cout << "Please Enter your temperature reading in degrees:" << endl;
   cin >> degree;
   return degree;
 }
