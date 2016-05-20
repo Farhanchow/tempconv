@@ -46,7 +46,7 @@ void  getResults(float Ftemp, float Ctemp);
 void programOverview ()
 {
   cout << "This program will convert a temperature reading provided in" << endl;
-  cout << "either Fahrenheit or Celsius to the other measurement scale." << endl;
+  cout << "either Fahrenheit or Celsius to the other measurement scale." << endl; // second line for eye candy
 }
 
 //This function requires the user to enter the temperature scale to be used
